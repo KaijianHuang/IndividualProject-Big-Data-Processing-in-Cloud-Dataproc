@@ -54,13 +54,13 @@ weighted avg       0.84      0.85      0.83     25508
 2. upload our data to AWS S3
 <img width="500" alt="s3-upload" src="/Screenshot 2023-04-12 at 15.44.38.png">
 3. create a notebook instance in AWS Sagemaker
-<img width="500" alt="sage-setup1" src="/img/sage-setup1.jpg">
+<img width="500" alt="sage-setup1" src="/Screenshot 2023-04-12 at 15.54.58.png">
 4. create a IAM role for sagemaker AWS
-<img width="500" alt="sage-setup2" src="/img/sage-setup2.jpg">
+
 5. the notebook instance is created successful after wait
-<img width="500" alt="sage-setup3" src="/img/sage-setup3.jpg">
+
 6. click "open jupyter" and create "conda_python3" file and do code there
-<img width="500" alt="sage-setup4" src="/img/sage-setup4.jpg">    
+  
 
 ## Requirement
 1. Use a major Big Data system to perform a Data Engineering related task
