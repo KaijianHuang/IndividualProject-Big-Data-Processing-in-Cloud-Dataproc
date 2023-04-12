@@ -50,7 +50,7 @@ weighted avg       0.84      0.85      0.83     25508
 
 ## Steps
 1. create a bucket on AWS S3    
-<img width="500" alt="s3-setup" src="/img/s3-setup.jpg">
+<img width="500" alt="s3-setup" src="/Screenshot 2023-04-12 at 15.42.56.png">
 2. upload our data to AWS S3
 <img width="500" alt="s3-upload" src="/img/s3-upload.jpg">
 3. create a notebook instance in AWS Sagemaker
