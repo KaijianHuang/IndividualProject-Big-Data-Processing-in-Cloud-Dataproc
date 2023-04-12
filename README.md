@@ -3,7 +3,7 @@
 ## Introduction
 In this project, we are going to build a major Big Data system to perform a Data Engineering related task.    
 
-My project is loan prediction. The database is loan amount and loan amount term with the infomation about the person.    
+My project is weather prediction. The database is loan amount and loan amount term with the infomation about the person.    
 
 I use AWS S3 to store our data and use AWS Sagemaker to do machine learning model code part. A model is built to predict the loan based on the data we provided, and we also calculate the accuracy of our model compared with real data.    
 
